@@ -42,12 +42,12 @@ map.html
         <center>
             <img src="map.png" usemap="#MyCity" height="610" width="1450">
             <map name="MyCity">
-            <area shape="rect" coords="700,250,840,300" href="home.html" title="My Home Town">
-            <area shape="circle" coords="620,740,220,80" href="beach.html" title="Chothavilai Beach House">
-            <area shape="circle" coords="1000,1200,840,300" href="aquarium.html" title="JJ Aquarium">
-            <area shape="circle" coords="700,200,840,200" href="forest.html" title="Mangrove Forest">
-            <area shape="rect" coords="500,100,900,900" href="birdsarea.html" title="Bird-Watching Area">
-        </map>
+                <area shape="rect" coords="700,250,840,300" href="home.html" title="My Home Town">
+                <area shape="circle" coords="620,740,220,80" href="beach.html" title="Chothavilai Beach House">
+                <area shape="circle" coords="1000,1200,840,300" href="aquarium.html" title="JJ Aquarium">
+                <area shape="circle" coords="700,200,840,200" href="forest.html" title="Mangrove Forest">
+                <area shape="rect" coords="500,100,900,900" href="birdsarea.html" title="Bird-Watching Area">
+            </map>
         </center>
     </body>
 </html>
@@ -66,7 +66,7 @@ home.html
             <font color="blue"><b>Nagercoil - My Home Town</b></font>
         </h3>
         <hr size="3" color="red">
-        <p align="justify" style="font-family: Georgia; font-size: 20pCx; line-height: 1.6;">
+        <p align="justify" style="font-family: Georgia; font-size: 20px; line-height: 1.6;">
             Puthalam is a Panchayat town in the Agastheeswaram taluk Kanniyakumari district in the Indian state of Tamil Nadu. Puthalam is also known for its salt pans, which have existed since the British colonial rule. It has a 200-year-old Christian church constructed by Ringel Taube, a German missionary. 
             There is also a 200-year-old higher secondary school, L.M.P.C. Higher Secondary School.
         </p>
@@ -91,7 +91,7 @@ beach.html
             Chothavilai Beach, lying on the West Coast in Kanyakumari District, Tamil Nadu, has a long sandy beach extending over a km, which is an attraction for beach walkers. It is one of the cleanest beaches in the district as it is a little away from human habitation and not very much frequented by tourists, and hence a haven for children who wish to enjoy building sandcastles.
             For the adults who boast of their stamina, it offers shallow waters and not-so-frightening waves to try swimming. An exquisite sight would be seeing off the sun at the horizon. The sand dunes dividing the beach and the road are awesome. In short, it is a great getaway for those who love a quiet retreat with family.
         </p>
-        </body>
+    </body>
 </html>
 
 aquarium.html
@@ -108,9 +108,9 @@ aquarium.html
             <font color="blue"><b>JJ Aquarium</b></font>
         </h3>
         <hr size="3" color="navyblue">
-        <p align="justify" style="font-family: Georgia; font-size: 20pCx; line-height: 1.6;">
-            JJ Aquarium in Puthalam,Kanyakumari listed under Aquariums in Kanyakumari. It has lots of Fish varities. Many visitors visit and purcahse fishes from them to grow in their home.
-            As there are many fish varities it is considered one of the best aquarium in Kanyakumari.
+        <p align="justify" style="font-family: Georgia; font-size: 20px; line-height: 1.6;">
+            JJ Aquarium in Puthalam, Kanyakumari listed under Aquariums in Kanyakumari. It has lots of Fish varieties. Many visitors visit and purchase fishes from them to grow in their homes.
+            As there are many fish varieties, it is considered one of the best aquariums in Kanyakumari.
         </p>
     </body>
 </html>
@@ -129,13 +129,11 @@ forest.html
             <font color="blue"><b>Mangrove Forest</b></font>
         </h3>
         <hr size="3" color="navyblue">
-        <p align="justify" style="font-family: Georgia; font-size: 20pCx; line-height: 1.6;">
-            Many are unaware of the Mangrove Forests in kanyakumari district. Some enterprising individuals apparently planted the trees more than two decades ago and it is only now that the forest department and 
-            district administration are showing interest in fencing and developing the mangrove wetlands. This forest support diverse groups of flora and fauna and attain special significance because of their location 
-            on the Central Asian Flyway of migratory waterbirds. Situated as it is at the tail end of this flyway, these wetlands are among the southern most wintering grounds for migratory ducks and shorebirds that 
-            breed in Northern Asia and migrate thousands of miles in autumn to milder climates in the south.
+        <p align="justify" style="font-family: Georgia; font-size: 20px; line-height: 1.6;">
+            Many are unaware of the Mangrove Forests in Kanyakumari district. Some enterprising individuals apparently planted the trees more than two decades ago, and it is only now that the forest department and district administration are showing interest in fencing and developing the mangrove wetlands. 
+            This forest supports diverse groups of flora and fauna and attains special significance because of its location on the Central Asian Flyway of migratory waterbirds. Situated as it is at the tail end of this flyway, these wetlands are among the southernmost wintering grounds for migratory ducks and shorebirds that breed in Northern Asia and migrate thousands of miles in autumn to milder climates in the south.
         </p>
-        </body>
+    </body>
 </html>
 
 birdsarea.html
@@ -152,13 +150,15 @@ birdsarea.html
             <font color="blue"><b>Bird-Watching Area</b></font>
         </h3>
         <hr size="3" color="navyblue">
-        <p align="justify" style="font-family: Georgia; font-size: 20pCx; line-height: 1.6;">
-            Many species of birds migrate to this area around a specific time of the year. Many bloggers, bird-photographers, and many tourist often come here to view them and click pictures. It looks quite like an little birds sanctuary.
-            Ebirding also takes place here. Ebirding refers to gather the information in the form of checklists of birds, archive it, and freely share it to power new data-driven approaches to science, conservation and education. Birds usually migrate ther at the time of spring and winter seasons.
+        <p align="justify" style="font-family: Georgia; font-size: 20px; line-height: 1.6;">
+            Many species of birds migrate to this area around a specific time of the year. Many bloggers, bird photographers, and tourists often come here to view them and click pictures. It looks quite like a little bird sanctuary.
+            Ebirding also takes place here. Ebirding refers to gathering information in the form of checklists of birds, archiving it, and freely sharing it to power new data-driven approaches to science, conservation, and education. Birds usually migrate here during the spring and winter seasons.
         </p>
-        </body>
+    </body>
 </html>
 '''
+
+
 
 ## OUTPUT
 ![alt text](map.png)
